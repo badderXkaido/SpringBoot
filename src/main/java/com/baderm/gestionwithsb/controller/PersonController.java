@@ -10,6 +10,7 @@ import com.baderm.gestionwithsb.data.repository.PersonRepository;
 
 
 
+//This is a controller
 
 @Controller
 //@RequestMapping(value="/add")
